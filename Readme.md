@@ -25,8 +25,8 @@ So this is what resulted in too much of free time and many sleepless nights.
 
 ### Equipments
 
-- 2 MAX4466
+- 1 MAX4466
 - ws2812B LED STRIP 5m
 - Arduino Uno
 - connections,capacitors and resistors
-- 5v 300Amp AC-DC Power Supply to power a bigger and brighter LED strip
+- 5v 300Amp AC-DC Power Supply to power a bigger and brighter LED strip (connect it to 2 sides,else end leds will have potential drop)
